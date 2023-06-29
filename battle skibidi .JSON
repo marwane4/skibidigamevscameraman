@@ -7,10 +7,10 @@
 
 
 
-	"ironsdk": "b4c66b4a4984eaf1",
-	"ironbanner": "b4c66b4a4984eaf1",
-	"ironinter": "b4c66b4a4984eaf1",
-	"ironreward": "b4c66b4a4984eaf1",
+	"ironsdk": "1a9f264e5",
+	"ironbanner": "DefaultBanner",
+	"ironinter": "DefaultInterstitial",
+	"ironreward": "DefaultRewardedVideo",
 
 	"unityid": "4983033",
 		"unitybanner": "Banner_Android",
