@@ -20,18 +20,18 @@
 	
 	"onesignalid": "231eccd3-7931-451b-98e5-4688683c09cd",
 	
-	"admobbannerId": "ca-app-pub-3940256099942544/6300978111",
-	"admobInterId": "ca-app-pub-3940256099942544/1033173712",
-	"admobReward": "ca-app-pub-3940256099942544/5224354917",
+	"admobbannerId": "ca-app-pub-8126478757199298/6246136424",
+	"admobInterId": "ca-app-pub-8126478757199298/7994332362",
+	"admobReward": "ca-app-pub-8126478757199298/7611188986",
 
 
 
 "adsSwitch detail ": " 1:admob 2unity 3:iron  0:auto",
-"adsSwitchInter": "1",
+"adsSwitchInter": "0",
 "adsSwitchBanner": "1",
 "adsSwitchReward": "1",
 
-"adscounter": "1"
+"adscounter": "3"
 
 	
 
