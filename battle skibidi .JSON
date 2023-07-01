@@ -27,11 +27,11 @@
 
 
 "adsSwitch detail ": " 1:admob 2unity 3:iron  0:auto",
-"adsSwitchInter": "0",
+"adsSwitchInter": "1",
 "adsSwitchBanner": "1",
 "adsSwitchReward": "1",
 
-"adscounter": "3"
+"adscounter": "2"
 
 	
 
